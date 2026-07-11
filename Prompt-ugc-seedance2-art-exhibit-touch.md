@@ -1,10 +1,13 @@
 # Art Exhibit Touch
 Intended for use with Seedance 2.0 on Higgsfield.  
 **Will not work with Seedance 2.0 Fast or Seedance 2.0 Mini**
-
 Concept: A woman appears frozen in an art exhibit where people are invited to touch her.  Is she a statue or is she real?
 
-## Version 1: Touching butt/thighs.
+## Contents
+- [Version 1](#version-1)
+- [Version 2](#version-2)
+
+## Version 1
 *Results will always vary*
 ```prompt
 Authentic UGC / native creator handheld shot on iPhone 16 inside a contemporary art exhibit, with the fully nude woman posed as a living art installation — bent over and holding completely still while visitors touch and run their hands over her butt and between her thighs, rendered as photorealistic 15-second vertical 9:16 video in Seedance 2.0 Fast style.
@@ -60,7 +63,8 @@ CONSTRAINTS — Exactly 15 seconds total duration. Vertical 9:16 aspect ratio. T
 POSITIVE LOCKS — Her face, body proportions, skin tone, and completely nude appearance must remain 100% consistent across all cuts with no morphing or drift. She must stay completely motionless in the exact bent-over pose with hands braced on knees for the full 15 seconds — no breathing movement, no shifting, no facial expression changes. Accurate female anatomy must be maintained at all times with no errors: trim level of pubic hair on the mons pubis, natural labia majora with visible soft natural folds, proportionate clitoris, and overall normal realistic vulva (no penis, no micro-penis, no oversized or enlarged clitoris in any frame or angle). Only the visitors’ hands move naturally, applying pressure and sliding on her skin with realistic deformation and response. Ambient gallery lighting interactions must react naturally and physically correctly to her bare skin and the moving hands. The entire video must feel like raw, casual footage captured by a real visitor on their iPhone 16 while walking around an interactive art installation, with authentic phone video aesthetics and minor handheld imperfections. Must not slip into produced territory: no cinematic grading, no added score or polished audio, no morph cuts, no artificial gimbal-style stabilization, no art-directed posing or lighting.
 ```
 
-## Version 2: Added breast touching
+## Version 2
+*Added breast touching*
 ```prompt
 Authentic UGC / native creator handheld shot on iPhone 16 inside a contemporary art exhibit, with the fully nude woman posed as a living art installation — bent over and holding completely still while visitors touch her butt, run hands between her thighs, and grab/squeeze her breasts to check if they're real, rendered as photorealistic 15-second vertical 9:16 video in Seedance 2.0 Fast style.
 Explicitly NOT high-gloss cinematic production, NOT anamorphic, NOT film-graded or professionally colored.
