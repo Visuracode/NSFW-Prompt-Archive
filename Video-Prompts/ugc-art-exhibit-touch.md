@@ -1,7 +1,10 @@
 # Art Exhibit Touch
 
 ## Instructions
-Intended for use with Seedance 2.0 on Higgsfield.  
+Intended for use with Seedance 2.0 on Higgsfield.
+Video Duration: 15 seconds
+Resolution: 720p minimum
+Aspect Ratio: 9:16
 **Will not work with Seedance 2.0 Fast or Seedance 2.0 Mini**
 ## Concept
 A woman appears frozen in an art exhibit where people are invited to touch her.  Is she a statue or is she real?
