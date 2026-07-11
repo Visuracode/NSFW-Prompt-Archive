@@ -1,4 +1,4 @@
-# NSFW AI Image Prompt Archive
+# NSFW AI Video Prompt Archive
 
 Welcome! This is a collection of detailed prompts for generating NSFW videos based on themes shared on X.  
 All prompts are ready to copy and paste into your favorite AI image generator.
