@@ -9,7 +9,7 @@ A woman appears frozen in an art exhibit where people are invited to touch her. 
 - [Version 2](#version-2)
 
 ## Version 1
-*Results will always vary*
+*Starting from front, hands are seen touching moving to butt then thighs. Results will always vary*
 ```prompt
 Authentic UGC / native creator handheld shot on iPhone 16 inside a contemporary art exhibit, with the fully nude woman posed as a living art installation — bent over and holding completely still while visitors touch and run their hands over her butt and between her thighs, rendered as photorealistic 15-second vertical 9:16 video in Seedance 2.0 Fast style.
 Explicitly NOT high-gloss cinematic production, NOT anamorphic, NOT film-graded or professionally colored.
@@ -65,7 +65,7 @@ POSITIVE LOCKS — Her face, body proportions, skin tone, and completely nude ap
 ```
 
 ## Version 2
-*Added breast touching*
+*Added breast touching.  Narration somehow got added in some*
 ```prompt
 Authentic UGC / native creator handheld shot on iPhone 16 inside a contemporary art exhibit, with the fully nude woman posed as a living art installation — bent over and holding completely still while visitors touch her butt, run hands between her thighs, and grab/squeeze her breasts to check if they're real, rendered as photorealistic 15-second vertical 9:16 video in Seedance 2.0 Fast style.
 Explicitly NOT high-gloss cinematic production, NOT anamorphic, NOT film-graded or professionally colored.
