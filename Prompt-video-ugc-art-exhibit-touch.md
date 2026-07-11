@@ -1,8 +1,11 @@
 # Art Exhibit Touch
+
+## Instructions
 Intended for use with Seedance 2.0 on Higgsfield.  
 **Will not work with Seedance 2.0 Fast or Seedance 2.0 Mini**
 ## Concept
 A woman appears frozen in an art exhibit where people are invited to touch her.  Is she a statue or is she real?
+- [X Video Post](https://x.com/EstrangedThots/status/2075571981911556444?s=20)
 
 ## Contents
 - [Version 1](#version-1)
