@@ -5,6 +5,7 @@ Intended for use with Nano Banana Pro, Seedream 4.5/5 pro, Grok, Flux or any les
 
 ## Concept
 Starter imgage of a Korean beauty in theme of those normally dancing on twitch or afreecatv
+- [X Post](https://x.com/EstrangedThots/status/2076765658608451925?s=20)
 
 ## Contents
 - [Korean Beauty v1](#korean-beauty-v1)
