@@ -12,7 +12,7 @@ Starter imgage of a Korean beauty in theme of those normally dancing on twitch o
 
 
 ## Korean Beauty v1
-*Front, Back and Face Close Up*
+*Front pose with random outcome*
 ```prompt
 Close-up studio portrait of a young Korean woman in her early 20s with a Twitch dancer aesthetic. She has very light pale porcelain skin with cool undertones, professional makeup, and subtle cosmetic enhancements including breast augmentation. She wears a deep blue lightweight chiffon backless cowl neck top with an extremely low plunging neckline that only partially covers her breasts, supported by delicate gold chain halter straps. This is paired with tight black form-fitting safety shorts that ride high on her glutes like yoga shorts. She poses against a seamless solid peach/coral gradient background.
 Lighting
